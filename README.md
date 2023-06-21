@@ -1,1 +1,6 @@
 # Customer-Churn-Prediction-using-Ensemble-Learning
+In this machine learning churn prediction project for a well-known bank, I aimed to address the issue of increasing customer attrition rates. The bank has observed a significant number of customers closing their accounts or switching to competitor banks, resulting in a negative impact on quarterly and potentially annual revenues. This has led to a decline in stock prices and market capitalization. 
+
+To mitigate this problem, I utilized customer data, including past transaction records and demographic information, to identify patterns and relationships between various features and the likelihood of customer churn. By establishing these associations, I developed a classification model that predicts whether a customer is likely to leave the bank or stay. 
+
+Additionally, the project focuses on interpreting and explaining the model's predictions through visualizations. This provides valuable insights into the factors contributing to customer churn. Ultimately, the project aims to provide the bank with actionable information to implement appropriate interventions and retain customers. The project covers the entire data science lifecycle, from defining the problem statement to preparing the model for deployment in the banking industry.
